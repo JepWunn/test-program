@@ -1,0 +1,6 @@
+{
+  "name": "Pigeon Clocking System",
+  "description": "Professional Pigeon Race Clocking System featuring Pigeon Club Manager accounts, multi-club race sanctioning, real-time arrival logging, SMS clocking ingestion, and Haversine velocity leaderboards.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
